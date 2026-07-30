@@ -2,9 +2,7 @@
 
 An interactive **Power BI** dashboard analyzing the full-funnel performance of Meta (Facebook & Instagram) ad campaigns — from impressions and clicks through to purchases — with audience, geography, and time-based breakdowns.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
-
+![Power BI](https://github.com/R-Kanhai/Meta_Ads_Dashboard/blob/main/Snapshot%20of%20Meta_Ads_Dashboard.png)
 ---
 
 ## 📌 Business Objective
@@ -15,9 +13,6 @@ The marketing team needed a single performance-tracking report for ad campaigns 
 - Understand audience engagement patterns
 
 **Scope:** Paid campaigns on Facebook and Instagram only. Messenger, Audience Network, and organic (non-paid) engagement are out of scope.
-
-**Live demo:** *[add your Publish-to-Web link here]*
-**Screenshots:** *[add dashboard screenshots / GIF here]*
 
 ---
 
@@ -119,13 +114,6 @@ Built on a star schema:
 └── README.md
 ```
 
----
-
-## 🙏 Acknowledgments
-
-The dataset structure and business requirements for this project are based on a tutorial by **Swapnjeet S** ([Data Tutorials](http://www.youtube.com/@datatutorials1)). This build represents my own implementation and analysis on top of that framework.
-
----
 
 ## 📬 Contact
 
