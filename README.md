@@ -12,7 +12,7 @@ The marketing team needed a single performance-tracking report for ad campaigns 
 - Track campaign ROI and optimize budget allocation
 - Understand audience engagement patterns
 
-**Scope:** Paid campaigns on Facebook and Instagram only. Messenger, Audience Network, and organic (non-paid) engagement are out of scope.
+**Scope:** Paid campaigns on Facebook and Instagram only. Messenger, Audience Network, and organic (non-paid) engagement are out of scope
 
 ---
 
