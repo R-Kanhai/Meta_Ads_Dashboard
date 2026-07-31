@@ -97,11 +97,10 @@ Built on a star schema:
 ## 🚀 How to Explore
 
 1. Open `Meta_Ads_Performance_Analysis.pbix` in Power BI Desktop, **or**
-2. View the interactive version via the Publish-to-Web link above (no login required)
-3. Use the **page navigator** to switch between Facebook and Instagram views
-4. Use the **Select Measure** slicer to change which KPI drives the charts
-5. Filter by **Month, Campaign, or Target Interests** to narrow the view
-6. Hover over the map, calendar, or charts for detail; click any segment to cross-filter the page
+2. Use the **page navigator** to switch between Facebook and Instagram views
+3. Use the **Select Measure** slicer to change which KPI drives the charts
+4. Filter by **Month, Campaign, or Target Interests** to narrow the view
+5. Hover over the map, calendar, or charts for detail; click any segment to cross-filter the page
 
 ---
 
