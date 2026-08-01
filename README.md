@@ -76,7 +76,7 @@ Built on a star schema:
 ## 🔍 Key Insights from the Analysis
 
 - **Strong top-of-funnel performance:** 216K impressions generated 25.4K clicks — an **11.76% CTR**, well above typical industry benchmarks (~1–2%), with a healthy **13.56% engagement rate**.
-- **Funnel drop-off at purchase:** Only 1.3K purchases resulted from those clicks — a **5.21% conversion rate** from clicks and just **0.61%** from total impressions, pointing to landing-page, offer, or audience-fit issues rather than an awareness problem.
+- **Funnel drop-off at purchase:** Only 1.3K purchases resulted from those clicks — a **5.21% conversion rate** from clicks and just **0.61%** from total impressions, pointing to landing-page, offer, or audience-fit issues rather than an awareness problem
 - **Audience:** Females (43% of engagement) outperform males (22%); the **18–30 age group** drives the majority of interactions.
 - **Geography:** India and Brazil lead in engagement volume, while Germany and the UK show signs of higher-value (higher purchasing power) audiences — suggesting different strategies for high-volume vs. high-value markets.
 - **Timing:** Engagement is steady week-over-week but peaks in the **afternoon and evening hours**; certain calendar dates show spikes likely tied to promotions or launches.
